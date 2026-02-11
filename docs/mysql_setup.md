@@ -41,8 +41,9 @@ CREATE TABLE citas (
 ### Pasos para conectar con MySQL
 
 1. **Crear tu backend API con Node.js/Express**
-   
+
    Ejemplo de estructura:
+
    ```
    backend/
    ├── config/
@@ -119,8 +120,8 @@ CREATE TABLE citas (
 
 ### Credenciales de Prueba (Mock Data)
 
-- **Admin**: admin@hospital.com / admin123
-- **Usuario**: juan@email.com / user123
+- **Admin**: <admin@hospital.com> / admin123
+- **Usuario**: <juan@email.com> / user123
 
 ### Características Implementadas
 
