@@ -1,6 +1,6 @@
+import dotenv from "dotenv";
 import express from "express";
 import logger from "morgan";
-import dotenv from "dotenv";
 import router from "./routes/citas.routes.js";
 
 dotenv.config();
